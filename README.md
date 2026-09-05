@@ -2,7 +2,7 @@
 
 
 
-# Cursor Captcha 🎯
+# Cursed Captcha 🎯
 
 
 ## Basic Details
